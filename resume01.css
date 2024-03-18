@@ -18,7 +18,7 @@ body {
  .clearfix:after {
      display: table;
      content: "";
-            
+
  }
  .clearfix:after {
      clear: both;
@@ -40,7 +40,7 @@ body {
     /* background-color: pink; */
     display: flex;
     border-bottom:2px dashed #ccc ;
-  
+
 
 }
 
@@ -49,16 +49,16 @@ body {
 .head .picture
 {
     flex: 1;
-    
+
 }
-      
-  
+
+
 .head .content {
     flex: 3;
 }
 /* 图标部分 */
 .head .title div {
-   
+
     height: 60px;
     border: 2px solid #2ac2d3;
 
@@ -67,7 +67,7 @@ body {
     color: #fff;
     background-color:  #2ac2d3;
     cursor: pointer;
-   
+
     font-size: 20px;
     font-weight: 700;
     border-radius: 5px;
@@ -75,7 +75,7 @@ body {
     line-height: 60px;
     text-shadow: 1px 1px 1px rgba(0,0,0,.3);
     transition: all .5;
-   
+
 
 }
 
@@ -108,14 +108,14 @@ body {
     overflow: hidden;
     position: relative;
     perspective: 1000px;
-    
+
 
 
 
 }
 .picture:hover img {
     transform: rotateY(180deg);
-    
+
 }
 
 
@@ -139,8 +139,8 @@ body {
     /* border: 1px solid red; */
     margin-bottom: 10px;
     position: relative;
-   
-    
+
+
 }
 
 .head li:nth-child(2):hover img  {
@@ -165,7 +165,7 @@ body {
     /* 没有display: hidden，
     只有visibilty: hidden; */
     position: absolute;
-    
+
     top: 30px;
 
 }
@@ -182,7 +182,7 @@ body {
     display: block;
     right: 130px;
     top: 0px;
-    
+
 }
 
 
@@ -201,7 +201,7 @@ body {
     display: flex;
     border-bottom:2px dashed #ccc ;
 
-  
+
 }
 /* 标题 */
 
@@ -229,8 +229,9 @@ body {
     margin-bottom: 10px;
 
 }
-
-
+.addHeight {
+    height: 230px;
+}
 
 
 
