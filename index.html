@@ -15,9 +15,10 @@
              </div>
            <div class="content">
                <ul>
-                   <li>
+                   <li class="contentTop">
                     性别：男  年龄：22    姓名：蒋先芝
                    </li>
+
                    <li>手机：18988496292 邮箱：772423266@qq.com
                     <img src="img/qq1png.png" alt=""> </li>
                    <li>本科毕业：云南大学 专业：软件学院网络工程</li>
@@ -28,6 +29,11 @@
 
                </ul>
            </div>
+           <script>
+            const currentYear = new Date().getFullYear();
+            const birthYear = currentYear - 1999;
+            document.querySelector('.contentTop').innerHTML = `性别：男  年龄：${birthYear}    姓名：蒋先芝`;
+        </script>
           <div class="picture">
               <img src="img/微信图片_20240318090412.jpg" alt="">
               <img src="img/images/pic-back_03.png" alt="">
