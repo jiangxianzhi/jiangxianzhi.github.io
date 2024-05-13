@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app-in_WKorJ.js";const o={};function c(r,n){return e(),a("div")}const _=t(o,[["render",c],["__file","遗忘.html.vue"]]),l=JSON.parse('{"path":"/ghost/%E9%81%97%E5%BF%98.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"ghost/遗忘.md"}');export{_ as comp,l as data};
