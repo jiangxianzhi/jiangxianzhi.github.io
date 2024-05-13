@@ -1,0 +1,28 @@
+<template><div><h3 id="stack-features-and-skills-for-binary-tree-algorithm-problems" tabindex="-1"><a class="header-anchor" href="#stack-features-and-skills-for-binary-tree-algorithm-problems"><span>Stack Features and Skills for Binary Tree Algorithm Problems</span></a></h3>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Can be used to simulate recursive function calls in an iterative manner.</li>
+<li>Useful for tree traversal algorithms like inorder, preorder, and postorder traversal.</li>
+<li>Helps in solving problems that require tracking parent nodes or backtracking in a tree structure.</li>
+</ul>
+<p><strong>Skills to Handle Binary Tree Problems with Stack:</strong></p>
+<ol>
+<li><strong>Inorder Traversal:</strong> Implement iterative inorder traversal using a stack.</li>
+<li><strong>Preorder Traversal:</strong> Perform iterative preorder traversal using a stack.</li>
+<li><strong>Postorder Traversal:</strong> Solve problems by implementing iterative postorder traversal with a stack.</li>
+<li><strong>Iterative Tree Construction:</strong> Build a binary tree iteratively using a stack.</li>
+<li><strong>Finding Paths:</strong> Use a stack to find paths in a binary tree.</li>
+<li><strong>Iterative Search:</strong> Implement iterative search algorithms like DFS using a stack.</li>
+<li><strong>Parent Node Tracking:</strong> Maintain parent nodes while traversing a binary tree.</li>
+<li><strong>Backtracking:</strong> Utilize stacks for backtracking in tree-related problems.</li>
+<li><strong>Expression Evaluation:</strong> Evaluate expressions involving binary trees using stacks.</li>
+<li><strong>Next Node in Inorder Successor:</strong> Solve problems related to finding the next node in inorder traversal using stacks.</li>
+</ol>
+<p>By mastering these features and skills, you will be well-prepared to tackle binary tree algorithm problems effectively on platforms like LeetCode using stacks.</p>
+<h2 id="examples" tabindex="-1"><a class="header-anchor" href="#examples"><span>Examples</span></a></h2>
+<p><a href="/algorithm/tree/Heap">Heap</a><br>
+<a href="/algorithm/tree/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%85%88%E4%B8%AD%E5%90%8E%E9%81%8D%E5%8E%86">二叉树先中后遍历</a><br>
+<a href="/algorithm/tree/%E9%80%9A%E8%BF%87%E4%B8%AD%E5%BA%8F%E5%90%8E%E5%BA%8F%E5%BE%97%E5%88%B0%E4%BA%8C%E5%8F%89%E6%A0%91">通过中序后序得到二叉树</a></p>
+</div></template>
+
+

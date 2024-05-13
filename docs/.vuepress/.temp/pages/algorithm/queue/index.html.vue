@@ -1,0 +1,35 @@
+<template><div><h3 id="queue-features-and-skills-for-algorithm-problems" tabindex="-1"><a class="header-anchor" href="#queue-features-and-skills-for-algorithm-problems"><span>Queue Features and Skills for Algorithm Problems</span></a></h3>
+<p><strong>Features:</strong></p>
+<ul>
+<li>FIFO (First In, First Out) data structure.</li>
+<li>Useful for implementing breadth-first search (BFS) algorithms, managing tasks in a sequential order, and solving problems that require order preservation.</li>
+<li>Efficient for handling problems where the order of processing elements matters.</li>
+</ul>
+<p><strong>Skills to Handle Queue Problems:</strong></p>
+<ol>
+<li><strong>Enqueue and Dequeue Operations:</strong> Master the basic queue operations to add elements (enqueue) and remove elements (dequeue).</li>
+<li><strong>Front and Rear Operations:</strong> Understand how to access the front and rear elements of a queue.</li>
+<li><strong>Queue Implementation:</strong> Implement a queue using arrays or linked lists.</li>
+<li><strong>Breadth-First Search (BFS):</strong> Apply queues for BFS traversal in graphs and trees.</li>
+<li><strong>Level Order Traversal:</strong> Solve problems related to level order traversal of trees using queues.</li>
+<li><strong>Sliding Window Problems:</strong> Utilize queues to solve sliding window problems efficiently.</li>
+<li><strong>First Unique Character:</strong> Solve problems related to finding the first unique character in a string using queues.</li>
+<li><strong>Implementing Cache:</strong> Use a queue to implement a cache with eviction policies like LRU (Least Recently Used).</li>
+<li><strong>Circular Queue:</strong> Understand and apply circular queues for specific problems.</li>
+<li><strong>Priority Queue:</strong> Handle priority queue operations efficiently for problems requiring ordering based on priorities.</li>
+</ol>
+<p>By mastering these features and skills, you will be well-equipped to tackle algorithm problems involving queues effectively on platforms like LeetCode.</p>
+<h2 id="examples" tabindex="-1"><a class="header-anchor" href="#examples"><span>Examples</span></a></h2>
+<p><a href="/algorithm/queue/Haffman">Haffman</a><br>
+<a href="/algorithm/queue/kotori%E5%92%8C%E7%B4%A0%E5%9B%A0%E5%AD%90">kotori和素因子</a><br>
+<a href="/algorithm/queue/string%E5%87%BA%E7%8E%B0%E6%9C%80%E5%A4%9A%E7%9A%84char">string出现最多的char</a><br>
+<a href="/algorithm/queue/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85">完全背包</a><br>
+<a href="/algorithm/queue/%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F">岛屿数量</a><br>
+<a href="/algorithm/queue/%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97">循环队列</a><br>
+<a href="/algorithm/queue/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98">背包问题</a><br>
+<a href="/algorithm/queue/%E8%B5%B0%E8%BF%B7%E5%AE%AB">走迷宫</a><br>
+<a href="/algorithm/queue/%E9%98%9F%E5%88%97">队列</a><br>
+<a href="/algorithm/queue/%E6%B1%89%E8%AF%BA%E5%A1%94">汉诺塔</a></p>
+</div></template>
+
+
